@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\Windows10\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
